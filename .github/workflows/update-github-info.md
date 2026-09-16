@@ -1,7 +1,6 @@
 ---
 name: update-github-info
 on:
-  schedule: daily
   workflow_dispatch:
 permissions:
   contents: read
